@@ -7,26 +7,26 @@
 
 ## 项目简介
 
-这是一个纯前端实现的校园二手交易平台数据库系统，使用 SQLite (In-Browser JS) 作为数据库引擎，所有数据存储在浏览器内存中。项目涵盖了数据库定义、数据操作、基本查询、连接查询、聚合查询、视图以及购买交易等业务功能。
+这是校园二手交易平台数据库系统，使用 SQLite (In-Browser JS) 作为数据库引擎，所有数据存储在浏览器内存中。项目涵盖了数据库定义、数据操作、基本查询、连接查询、聚合查询、视图以及购买交易等业务功能。
 
 ## 技术栈
 
-- **前端框架**: 纯 HTML + CSS + JavaScript
-- **UI 框架**: Tailwind CSS CDN
-- **图标库**: Font Awesome 6.4.0
-- **数据库**: SQL.js (SQLite compiled to JavaScript via Emscripten)
+ **前端框架**:  HTML + CSS + JavaScript
+ **UI 框架**: CSS CDN
+ **图标库**: Font Awesome 6.4.0
+ **数据库**: SQL.js (SQLite compiled to JavaScript via Emscripten)
 
 ## 项目结构
 
-```
+
 campus-secondhand-db/
-├── index.html          # 主页面 (侧边栏导航 + 内容区域)
-├── css/
-│   └── style.css       # 全局样式 (导航、表格、卡片、按钮、表单)
-├── js/
-│   └── app.js          # 核心业务逻辑 (数据模型、页面渲染、CRUD操作)
-└── README.md           # 项目说明文档
-```
+index.html          # 主页面 (侧边栏导航 + 内容区域)
+css/
+ style.css       # 全局样式 (导航、表格、卡片、按钮、表单)
+js/
+ app.js          # 核心业务逻辑 (数据模型、页面渲染、CRUD操作)
+ README.md           # 项目说明文档
+
 
 ## 数据库设计
 
