@@ -2,6 +2,9 @@
 
 数据库原理课程作业 —— 校园二手交易平台数据库系统
 
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/hahahah2026/campus-secondhand-db)
+[![Online Demo](https://img.shields.io/badge/Online-Demo-green)](https://qqzcacwcznx4w.ok.kimi.link)
+
 ## 项目简介
 
 这是一个纯前端实现的校园二手交易平台数据库系统，使用 SQLite (In-Browser JS) 作为数据库引擎，所有数据存储在浏览器内存中。项目涵盖了数据库定义、数据操作、基本查询、连接查询、聚合查询、视图以及购买交易等业务功能。
