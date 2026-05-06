@@ -20,9 +20,9 @@
 
 
 campus-secondhand-db/
-index.html          # 主页面 (侧边栏导航 + 内容区域)
+index.html          ## 主页面 (侧边栏导航 + 内容区域)
 css/
- style.css       # 全局样式 (导航、表格、卡片、按钮、表单)
+ style.css       ## 全局样式 (导航、表格、卡片、按钮、表单)
 js/
  app.js          # 核心业务逻辑 (数据模型、页面渲染、CRUD操作)
  README.md           # 项目说明文档
